@@ -6,4 +6,4 @@
 
 Clone the Repository in your local machine along with the dataset.
 
-Run the python notebooks,
+Run the Python notebooks.
